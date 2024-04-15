@@ -1,0 +1,28 @@
+Frequency: 876
+Spreading Factor: SF12
+Coding Rate: 4:6
+Bandwidth: 250 (KHz)
+Mode of Transmission: LoRa Mode
+TX Power: self.bandwidth = bandwidth
+FEC: Enabled
+Frequency: 868
+Spreading Factor: SF12
+Coding Rate: 4:5
+Bandwidth: 125 (KHz)
+Mode of Transmission: FLRC:Fast LoRa Communication
+TX Power: 14 (dBm)
+FEC: Enabled
+Frequency: 700
+Spreading Factor: SF10
+Coding Rate: 4:5
+Bandwidth: 250 (KHz)
+Mode of Transmission: LoRa Mode
+TX Power: 14 (dBm)
+FEC: Enabled
+Frequency: 200
+Spreading Factor: SF10
+Coding Rate: 4:5
+Bandwidth: 250 (KHz)
+Mode of Transmission: FLRC:Fast LoRa Communication
+TX Power: 14 (dBm)
+FEC: Enabled
